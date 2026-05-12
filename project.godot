@@ -1,0 +1,14 @@
+[application]
+config/name="FGO Waltz Tribute"
+config/description="月光下的华尔兹 粉丝致敬节奏游戏"
+run/main_scene="res://scenes/main.tscn"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+
+[audio]
+driver="pulse_audio"
+
+[editor]
+version="4.3"

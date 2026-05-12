@@ -1,2 +1,20 @@
-# fgo-waltz-fan-revival
-粉丝致敬项目：开源节奏舞蹈游戏，灵感来源于《Fate/Grand Order Waltz in the MOONLIGHT/LOSTROOM》（FGO 华尔兹）。使用 Godot 引擎开发。仅使用免费/原创占位资源，不含官方IP资产。纯粉丝同人致敬，无商业用途。
+# FGO Waltz Fan Revival / 月光华尔兹 粉丝致敬版
+
+纯粉丝同人节奏舞蹈游戏致敬项目
+使用 Godot 4.3+ 开发
+
+## 当前进度
+- [x] 基础节奏游戏框架 (下落式 Note 系统)
+- [x] 判定系统 (Perfect/Good/Miss)
+- [ ] 3D 舞蹈角色 (下一步)
+- [ ] 多首华尔兹音乐
+
+**法律声明**：本项目为非商业粉丝致敬作品，使用原创或免费资源。获得漫展一日版权支持。
+
+## 如何运行
+1. 下载 Godot 4.3 或更高版本
+2. Clone 本仓库
+3. 打开 project.godot
+4. 按 Play 运行
+
+更多功能正在持续添加中...
